@@ -1,0 +1,29 @@
+[debug] Packaging C:\Users\Tuha9\Desktop\scala\naumen.scala.course.2020.autumn\homeworks\homework_5\target\scala-2.12\homework_5_2.12-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	Exercises$.class
+[debug] 	  C:\Users\Tuha9\Desktop\scala\naumen.scala.course.2020.autumn\homeworks\homework_5\target\scala-2.12\classes\Exercises$.class
+[debug] 	Exercises$Animal.class
+[debug] 	  C:\Users\Tuha9\Desktop\scala\naumen.scala.course.2020.autumn\homeworks\homework_5\target\scala-2.12\classes\Exercises$Animal.class
+[debug] 	Exercises$Bread$.class
+[debug] 	  C:\Users\Tuha9\Desktop\scala\naumen.scala.course.2020.autumn\homeworks\homework_5\target\scala-2.12\classes\Exercises$Bread$.class
+[debug] 	Exercises$Cat$.class
+[debug] 	  C:\Users\Tuha9\Desktop\scala\naumen.scala.course.2020.autumn\homeworks\homework_5\target\scala-2.12\classes\Exercises$Cat$.class
+[debug] 	Exercises$Cat.class
+[debug] 	  C:\Users\Tuha9\Desktop\scala\naumen.scala.course.2020.autumn\homeworks\homework_5\target\scala-2.12\classes\Exercises$Cat.class
+[debug] 	Exercises$Dog$.class
+[debug] 	  C:\Users\Tuha9\Desktop\scala\naumen.scala.course.2020.autumn\homeworks\homework_5\target\scala-2.12\classes\Exercises$Dog$.class
+[debug] 	Exercises$Dog.class
+[debug] 	  C:\Users\Tuha9\Desktop\scala\naumen.scala.course.2020.autumn\homeworks\homework_5\target\scala-2.12\classes\Exercises$Dog.class
+[debug] 	Exercises$Food.class
+[debug] 	  C:\Users\Tuha9\Desktop\scala\naumen.scala.course.2020.autumn\homeworks\homework_5\target\scala-2.12\classes\Exercises$Food.class
+[debug] 	Exercises$Meat$.class
+[debug] 	  C:\Users\Tuha9\Desktop\scala\naumen.scala.course.2020.autumn\homeworks\homework_5\target\scala-2.12\classes\Exercises$Meat$.class
+[debug] 	Exercises$Milk$.class
+[debug] 	  C:\Users\Tuha9\Desktop\scala\naumen.scala.course.2020.autumn\homeworks\homework_5\target\scala-2.12\classes\Exercises$Milk$.class
+[debug] 	Exercises$Shelter$.class
+[debug] 	  C:\Users\Tuha9\Desktop\scala\naumen.scala.course.2020.autumn\homeworks\homework_5\target\scala-2.12\classes\Exercises$Shelter$.class
+[debug] 	Exercises$Shelter.class
+[debug] 	  C:\Users\Tuha9\Desktop\scala\naumen.scala.course.2020.autumn\homeworks\homework_5\target\scala-2.12\classes\Exercises$Shelter.class
+[debug] 	Exercises.class
+[debug] 	  C:\Users\Tuha9\Desktop\scala\naumen.scala.course.2020.autumn\homeworks\homework_5\target\scala-2.12\classes\Exercises.class
+[debug] Done packaging.

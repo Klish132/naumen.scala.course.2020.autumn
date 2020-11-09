@@ -1,0 +1,5 @@
+[debug] [watch] [homework_5 / Compile / run] Found inputs: C:\Users\Tuha9\Desktop\scala\naumen.scala.course.2020.autumn\homeworks\homework_5\*.{java,scala},C:\Users\Tuha9\Desktop\scala\naumen.scala.course.2020.autumn\homeworks\homework_5\src\main\java\**\*.{java,scala},C:\Users\Tuha9\Desktop\scala\naumen.scala.course.2020.autumn\homeworks\homework_5\src\main\resources\**\*,C:\Users\Tuha9\Desktop\scala\naumen.scala.course.2020.autumn\homeworks\homework_5\src\main\scala\**\*.{java,scala},C:\Users\Tuha9\Desktop\scala\naumen.scala.course.2020.autumn\homeworks\homework_5\src\main\scala-2.12\**\*.{java,scala}
+[info] 1. Monitoring source files for homework_5/run...
+[info]    Press <enter> to interrupt or '?' for more options.
+[debug] [watch] [debug] Received input event: Run().
+[debug] [watch] [debug] Received input event: Run().
