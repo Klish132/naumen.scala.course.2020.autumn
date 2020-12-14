@@ -25,6 +25,7 @@ object Test extends TestSuite{
     }
 
     'wordReverse - {
+      assert(Exercises.wordReverse("Zima!.. Krestyanin, torjestvuya...") == "Amiz!.. Ninaytserk, ayuvtsejrot...")
       assert(Exercises.wordReverse("Зима!.. Крестьянин, торжествуя...") == "Амиз!.. Ниняьтсерк, яувтсежрот...")
     }
 
